@@ -4,5 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Change this text with information about me and my blog.
+Jillian Warburton is a senior at Brigham Young University who hopes to graduate in May with a Bachelor of Science in Statistics, emphasis in Data Science. SHe is looking forward to working professionally soon!
+This blog is an exercise in professional social media. Jillian is currently learning Python and Git, hence the GitHub Pages Blog here. She looks forward to sharing her attempts to learn more about machine learning, data analysis, and data visualizations.
+
 
