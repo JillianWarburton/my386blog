@@ -32,7 +32,7 @@ Specifically, I would want to look at the top 15 to 20 countries with data sugge
 # Conclusion
 I hope this post explains my plans and thoughts for the coming semester! I look forward to creating my tutorial, book review, and data story. I hope you will join me in on my journey to figure out blogging.
 
-###### Footnote:
+##### Footnote:
 [^note]:
     List of Data Science Ethics Reading:
     - Weapons of Math Destruction by Cathy O'Neil
