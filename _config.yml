@@ -20,8 +20,7 @@
 
 title: "Jillian's Attempts to Blog Statistics" # Make a title for your blog
 email: "jillianmaw@gmail.com" # Add your email 
-description: "A statistics graduate-to-be attempts to blog about her skill.
-...Results of said blogging may vary, but the skills should improve!"
+description: "A statistics graduate-to-be attempts to blog about her skill ...Results of said blogging may vary, but the skills should improve!"
 baseurl: "/my386blog" # keep this the same or change it to the name of the repository 
 url: "https://JillianWarburton.github.io" #  change this to "https://<your-github-username>.github.io"
 image: /assets/images/naser-tamimi-yG9pCqSOrAg-unsplash.jpg
