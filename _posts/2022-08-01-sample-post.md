@@ -3,7 +3,8 @@ layout: post
 title:  "How to create a blog post"
 author: Shannon Tass
 description: A sample post instructions on how to create a new blog post
-image: 
+image:
+hidden: true
 ---
 
 ## Steps for creating a new post.  
