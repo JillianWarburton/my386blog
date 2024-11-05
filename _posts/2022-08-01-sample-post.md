@@ -5,7 +5,6 @@ author: Shannon Tass
 description: A sample post instructions on how to create a new blog post
 image:
 hidden: true
-published: false
 ---
 
 ## Steps for creating a new post.  
